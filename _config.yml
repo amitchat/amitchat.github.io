@@ -11,13 +11,13 @@ disqus: your_disqus_site
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: '' }
+-  { name: twitter, url: 'http://twitter.com/amitchat' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/amitchat/' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/amitchat' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
@@ -28,7 +28,7 @@ social_networks:
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
--  { name: flickr, url: '' }
+-  { name: flickr, url: 'https://www.flickr.com/photos/amitchat/' }
 -  { name: spotify, url: '' }
 -  { name: steam, url: '' }
 -  { name: wordpress, url: '' }
@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "https://amitchat.me"
 baseurl: ""
 
 # Includes
