@@ -57,7 +57,7 @@ defaults:
 
 # Serving
 url: "https://amitchat.me"
-baseurl: ""
+baseurl: "/"
 
 # Includes
 include: ["_pages"]
